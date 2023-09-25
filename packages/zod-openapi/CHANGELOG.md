@@ -1,5 +1,11 @@
 # @hono/zod-openapi
 
+## 0.6.1
+
+### Patch Changes
+
+- [#176](https://github.com/honojs/middleware/pull/176) [`fb63ef4`](https://github.com/honojs/middleware/commit/fb63ef413cb7b843aebe756a5322bdd10ba74500) Thanks [@yusukebe](https://github.com/yusukebe)! - fix(zod-openapi): make multiple routes types correct for `hc`
+
 ## 0.6.0
 
 ### Minor Changes
